@@ -1,0 +1,3 @@
+大图
+messenger基本应用
+在手机上同时运行module app和client端，在client操作messenger
